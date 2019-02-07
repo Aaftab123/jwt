@@ -1,0 +1,6 @@
+
+insert into people ( first_name, last_name, age) values
+( 'Vlad', 'Boyarskiy', 21),
+('Oksi', ' Bahatskaya', 30),
+('Vadim', ' Vadimich', 32);
+
